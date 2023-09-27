@@ -9,8 +9,8 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
 
-    <label for="email"><b>Enter Name</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <label for="email"><b>Enter email</b></label>
+    <input type="text" placeholder="Enter your email" name="email" id="email" required>
     <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
