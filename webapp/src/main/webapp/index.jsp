@@ -2,6 +2,7 @@
   <div class="container">
     <h1>2 Try again again</h1>
     <p>Please Please Please fill in this form to create an account.</p>
+    <p>Please Please Please fill in this form to create an account.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
